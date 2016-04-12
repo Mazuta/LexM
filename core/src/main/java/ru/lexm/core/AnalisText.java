@@ -1,12 +1,10 @@
-/**
- * 
- */
 package ru.lexm.core;
 
 /**
- * @author coder
+ * @author Anton Yurchenko
  *
  */
+
 public interface AnalisText {
 	
 	
